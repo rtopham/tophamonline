@@ -42,7 +42,7 @@ const Home = () => {
             <a href='http://www.snacktimefantasy.com'>Snacktime Fantasy</a>
           </p>
           <p>
-            <a href='http://racing.tophamonline.copm'>Topham Racing</a>
+            <a href='http://racing.tophamonline.com'>Topham Racing</a>
           </p>
         </Col>
       </Row>
