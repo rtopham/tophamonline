@@ -9,31 +9,14 @@ const Home = () => {
       <Row>
         <Col lg='7'>
           <p>
-            Long before there was WordPress or Facebook or Twitter, we put up a
-            website and called it Tophamonline. We hand coded the html and we
-            got excited about things like dynamic fonts and CSS. We even had a
-            24/7 webcam to check out our old dog, Auggie.
-          </p>
-          <p>
-            The website later morphed into a WordPress blog, and we tried to
-            keep everyone up to date by posting as often as we could. Then
-            Zuckerberg ruined all that. Like you, we now communicate with
-            friends and update our status on Facebook. It is quick and
-            convenient, but also a bit embarrassing for a family that puts
-            together web-apps with React and Nodejs.
-          </p>
-          <p>
-            You can find links to our websites here. But if you just want to
-            keep up with the latest snippets from the Tophams, you will need to
-            find us on Facebook. But don’t be surprised if we find a way to
-            bring the Auggie cam back one of these days! But of course we would
-            now have to call it the Otto cam.
+            There's really not much to see here. But check out our recommended
+            websites.
           </p>
         </Col>
         <Col lg='1' className='centerColumn'></Col>
         <Col>
           <p>
-            <strong>Our Other Websites:</strong>
+            <strong>Recommended Websites:</strong>
           </p>
           <p>
             <a href='http://www.photocoloringbooks.com'>Photo Coloring Books</a>
@@ -43,6 +26,12 @@ const Home = () => {
           </p>
           <p>
             <a href='http://racing.tophamonline.com'>Topham Racing</a>
+          </p>
+          <p>
+            <a href='http://fitkitsystems.com'>Fit Kit Systems</a>
+          </p>
+          <p>
+            <a href='http://fitkitstudio.com'>Fit Kit Studio</a>
           </p>
         </Col>
       </Row>
